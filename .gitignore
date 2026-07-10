@@ -1,0 +1,5 @@
+/target/
+/teacher_reference/
+.idea/
+*.iml
+*.class
